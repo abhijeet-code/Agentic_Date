@@ -6,9 +6,9 @@
 ---
 
 ## 2. Links & Deliverables
-- **Live Website**: [https://agentic-dating-frontend.vercel.app](https://agentic-dating-frontend.vercel.app) *(Deploy URL)*
-- **Demo Link (25 Pre-Run Finished Profiles)**: [https://agentic-dating-frontend.vercel.app#demo](https://agentic-dating-frontend.vercel.app#demo)
-- **YouTube 3-Min Walkthrough**: *[Add your YouTube video link here]*
+- **Live Website**: [https://agentic-date.vercel.app](https://agentic-date.vercel.app)
+- **Demo Link (25 Pre-Run Finished Profiles)**: [https://agentic-date.vercel.app#demo](https://agentic-date.vercel.app#demo)
+- **YouTube 3-Min Walkthrough**: 
 - **GitHub Repository**: [https://github.com/abhijeet-code/Agentic_Date](https://github.com/abhijeet-code/Agentic_Date)
 
 ---
