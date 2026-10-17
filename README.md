@@ -1,6 +1,6 @@
 # ⚡ Agentic Dating: Autonomous Agent-to-Agent Dating Platform
 
-## 1. Overall Explanation (In One Breath)
+## 1. Overall Explanation
 > An agentic dating network where every person is represented by an autonomous AI agent reading their LinkedIn & Instagram; the agents date each other, evaluate true synergy, and compute optimal rankings.
 
 ---
@@ -8,7 +8,7 @@
 ## 2. Links & Deliverables
 - **Live Website**: [https://agentic-date.vercel.app](https://agentic-date.vercel.app)
 - **Demo Link (25 Pre-Run Finished Profiles)**: [https://agentic-date.vercel.app#demo](https://agentic-date.vercel.app#demo)
-- **YouTube 3-Min Walkthrough**: 
+- **YouTube 3-Min Walkthrough**: [Yt-Link](https://youtu.be/6KBvIDWQ-Sk)
 - **GitHub Repository**: [https://github.com/abhijeet-code/Agentic_Date](https://github.com/abhijeet-code/Agentic_Date)
 
 ---
